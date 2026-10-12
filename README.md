@@ -120,9 +120,6 @@ _Fill this table with the output of the **Model Comparison** section of the note
 _Optional: add screenshots of the confusion matrix and training curves here._
 
 ```
-![Confusion Matrix](images/confusion_matrix.png)
-![Training Curves](images/training_curves.png)
-```
 
 ---
 
