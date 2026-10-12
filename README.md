@@ -8,7 +8,7 @@ A deep-learning project that classifies brain MRI scans into four categories —
 
 💻 **GitHub:** ['Github Repo'](https://github.com/roshan2156/Brain-Tumor-MRI-Image-Classification-using-Deep-Learning-Custom-CNN-Transfer-Learning-)
 
-📓 **Notebook:** [`Notebook'](https://colab.research.google.com/drive/1tFRGG8R-ESuiRGa9T9ACHj-NvKxUt5ps?usp=drive_link)]
+📓 **Notebook:** [`Notebook'](https://colab.research.google.com/drive/1tFRGG8R-ESuiRGa9T9ACHj-NvKxUt5ps?usp=drive_link)
 
 ---
 
